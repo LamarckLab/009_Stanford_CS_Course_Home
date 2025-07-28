@@ -9,3 +9,7 @@
 #### - Stanford CS229 Video ------ [Click me](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 #### - Machine Learning Yearning Online Reading ------ [Click me](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/)
+
+### ---------- CS336 ----------
+
+#### - Stanford CS336 Syllabus ------ [Click me](https://stanford-cs336.github.io/spring2025/)
