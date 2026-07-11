@@ -1,17 +1,29 @@
-# Stanford CS Course
+<h1 align="center">💻 Stanford CS Course Hub</h1>
 
-## [All CS Courses](https://www.classcentral.com/list/stanford-pgqmp1a2b89) 
+<p align="center"><em>—— Materials and lecture videos for open Stanford CS courses</em></p>
 
-### ---------- CS229 ----------
+<p align="center">
+  <img src="https://img.shields.io/badge/Type-Resource%20Hub-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-CS%20%2F%20ML-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Ongoing-brightgreen?style=flat-square" />
+</p>
 
-#### - Stanford CS229 Syllabus ------ [Click me](https://see.stanford.edu/Course/CS229)
+---
 
-#### - Stanford CS229 Video ------ [Click me](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+> Full course list: [All Stanford CS Courses](https://www.classcentral.com/list/stanford-pgqmp1a2b89)
 
-#### - Machine Learning Yearning Online Reading ------ [Click me](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/)
+## CS229 · Machine Learning
 
-### ---------- CS336 ----------
+| Resource | Link |
+| :--- | :--- |
+| Syllabus | [see.stanford.edu](https://see.stanford.edu/Course/CS229) |
+| Lecture Notes (PDF) | [CS229_LectureNotes.pdf](./CS229_LectureNotes.pdf) |
+| Lectures | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
+| Machine Learning Yearning (online reading) | [deeplearning-ai.github.io](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/) |
 
-#### - Stanford CS336 Syllabus ------ [Click me](https://stanford-cs336.github.io/spring2025/)
+## CS336 · Language Modeling from Scratch
 
-#### - Stanford CS336 Video ------ [Click me](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=1)
+| Resource | Link |
+| :--- | :--- |
+| Syllabus | [stanford-cs336.github.io](https://stanford-cs336.github.io/spring2025/) |
+| Lectures | [YouTube](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=1) |
