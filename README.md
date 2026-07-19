@@ -1,6 +1,7 @@
 <h1 align="center">💻 Stanford CS Course Hub</h1>
 
 <p align="center"><em>—— Materials and lecture videos for open Stanford CS courses</em></p>
+<p align="center"><em>—— 2025.01.07</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Type-Resource%20Hub-blue?style=flat-square" />
